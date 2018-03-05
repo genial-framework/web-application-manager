@@ -33,9 +33,9 @@
     ],
     "require": {
         "php": "^7.2",
-        "ext-fann",
-        "ext-json",
-        "ext-yaml",
+        "ext-fann": "*",
+        "ext-json": "*",
+        "ext-yaml": "*",
     },
     "autoload": {
         "psr-4": {
