@@ -9,13 +9,7 @@
         "fann"
         "json",
         "yaml",
-        "filesystem-manager",
-        "cookie-manager",
-        "session-manager",
         "automated",
-        "secure-by-default",
-        "autentication-manager",
-        "o-auth-manager",
         "secure-coding",
         "performance-manager",
         "artificial-neural-network",
