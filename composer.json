@@ -34,10 +34,6 @@
         "ext-json": "*",
         "ext-yaml": "*"
     },
-    "suggest": {
-        "ext-xml": "To log data in xml format.",
-        "ext-pdo": "To log data in a database."
-    },
     "autoload": {
         "psr-4": {
             "Genial\\App\\": "./src"
