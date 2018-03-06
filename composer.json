@@ -34,6 +34,9 @@
         "ext-json": "*",
         "ext-yaml": "*"
     },
+    "suggest": {
+        "ext-xml": "To log data in xml format."  
+    },
     "autoload": {
         "psr-4": {
             "Genial\\App\\": "./src"
