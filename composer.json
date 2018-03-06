@@ -29,7 +29,7 @@
         "php": "^7.2",
         "pimple/pimple": "^3",
         "symfony/yaml": "^4",
-        "psr-container": "*",
+        "psr/container": "*",
         "ext-fann": "*",
         "ext-json": "*",
         "ext-yaml": "*"
